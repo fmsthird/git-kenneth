@@ -1,2 +1,2 @@
 # git-kenneth
-Initial Git repo - Kenneth
+The official Github repository of Kenneth the Master Gunabe.
