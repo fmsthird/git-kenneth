@@ -1,2 +1,2 @@
 # git-kenneth
-The official Github repository of Kenneth the Master Gunabe.
+The official Github project repository of Kenneth the "Master" Gunabe.
