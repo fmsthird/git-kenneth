@@ -1,3 +1,4 @@
 first line
 line from github edit
+<<<<<<< HEAD
 sample third line asdasd
